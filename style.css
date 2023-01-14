@@ -49,7 +49,8 @@ body{
       border-radius: 20px;
     }
     .content-section-2 {
-      display: flex;
+      display:flex;
+      height: 100%;
       margin-top: 10px;
       background-color: rgb(55, 51, 51);
       border-radius: 20px;
